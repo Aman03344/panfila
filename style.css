@@ -3,7 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    /* border: 1px solid rgb(251, 76, 76); */
+    border: 1px solid rgb(251, 76, 76);
 }
 
 .container{
@@ -62,6 +62,13 @@
     font-weight: 700;
 }
 
+.navcontent ul li a:hover{
+    color: rgb(235, 187, 53);
+    font-size: 26px;
+}
+.navcontent ul li a i{
+    margin-left: 8px;
+}
 
 .navcontent ul li:first-child a{
     color: rgb(236, 195, 58);
