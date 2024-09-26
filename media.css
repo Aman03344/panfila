@@ -186,11 +186,22 @@
         height: auto;
         flex-direction: column;
     }
+    
+
+    .happy{
+
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    }
 
     .container5{
         width: 100%;
-        height: auto
-        ;
+        height: auto;
     }
     .list-con{
         width: 100%;
@@ -205,6 +216,8 @@
         width: 100%;
         align-items: start;
         justify-content: start;
+        margin-top: 200px;
+        font-size: 13px;
     }
     .list2{
         width: 100%;
@@ -230,6 +243,18 @@
         width: 100%;
         height: auto;
         flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+
+    .images1 img{
+        width: 100%;
+        height: auto;
+
+        font-size: 10%;
     }
     
     .images2{
