@@ -1,0 +1,247 @@
+
+
+@media (max-width:480px) {
+
+    .container{
+        width: 100%;
+        height: auto;
+    }
+    
+    .navbar{
+        width: 100%;
+        height: 20%;
+    }
+
+    .navcontent{
+        display: none;
+    }
+
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+    .textcon{
+        width: 100%;
+        height: auto;
+        padding-inline: 20px;
+    }
+
+    .textcon h1{
+        font-size: 38px;
+    }
+
+    .textcon a{
+        font-size: 32px;
+    }
+
+    .textcon button{
+        width: 65%;
+        font-size: 22px;
+    }
+
+    .textcon h5{
+        font-size: 18px;
+    }
+    .textcon h2{
+        font-size: 30px;
+    }
+
+    .textcon span{
+        font-size: 18px;
+    }
+
+    .cardcon{
+        width: 100%;
+        height: auto;
+        flex-wrap:wrap ;
+    }
+
+    .cardcon2{
+        width: 100%;
+        height: auto;
+        flex-wrap:wrap ;
+    }
+
+    .card2{
+        width: auto;
+        padding: 20px;
+    }
+
+    .card2 img{
+        width: 100%;
+        height: auto;
+    }
+
+    .cardcon3{
+        width: 100%;
+        height: auto;
+        flex-wrap:wrap ;
+    }
+
+    .loadmorebtn{
+        width: 100%;
+        height: auto;
+        padding-block: 30px;
+    }
+
+    .container2{
+        width: 100%;
+        height: auto;
+    }
+
+    .responsive{
+        width: 100%;
+        height: auto;
+        padding-inline: 20px;
+    }
+
+
+    .resbox{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        align-items: start;
+        justify-content: start;
+    
+    }
+
+    .res{
+        width: auto;
+    }
+    .res:nth-child(2){
+        border: none;
+        border-top: 1px solid green;
+        border-bottom: 1px solid green;
+    }
+
+    .container3{
+        width: 100%;
+        height: auto;
+        
+    }
+
+    .wordbox{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        padding-block: 30px;
+    }
+
+    .wordcard1{
+        width: 400px;
+        height: 250px;
+    }
+
+    .wordcard2{
+        width: 400px;
+        height: 250px;
+    }
+    .wordcard3{
+        width: 400px;
+        height: 250px;
+    }
+
+    .wordcard4{
+        width: 400px;
+        height: 250px;
+    }
+
+
+
+    .ecombox{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        padding-block: 20px;
+    }
+
+
+    .ecomcard1{
+        width: 400px;
+        height: 250px;
+    }
+
+    .ecomcard2{
+        width: 400px;
+        height: 250px;
+    }
+
+    .ecomcard3{
+        width: 400px;
+        height: 250px;
+    }
+
+    .ecomcard4{
+        width: 400px;
+        height: 250px;
+    }
+
+    .container4{
+        width: 100%;
+        height: auto;
+        padding-block: 20px;
+    }
+    .happybox{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .container5{
+        width: 100%;
+        height: auto
+        ;
+    }
+    .list-con{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        padding-block: 40px;
+        padding-inline: 20px;
+        gap: 0px;
+    }
+
+    .list1{
+        width: 100%;
+        align-items: start;
+        justify-content: start;
+    }
+    .list2{
+        width: 100%;
+        align-items: start;
+        justify-content: start;
+        margin: 0;
+   
+    }
+
+
+    .container6{
+        width: 100%;
+        height: auto;
+    }
+
+    .image-con1{
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+    .images1{
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+    }
+    
+    .images2{
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+    .iconbox{
+        display: none;
+    }
+}
+
+
+
